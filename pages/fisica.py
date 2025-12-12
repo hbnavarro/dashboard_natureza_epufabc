@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import altair as alt
-from streamlit_plotly_events import plotly_events
 
 import sys
 import os
@@ -645,5 +644,6 @@ except Exception as e:
 
 
 #df = pd.read_csv("Base de dados - ENEM EPUFABC.csv", sep=",")
+
 
 
