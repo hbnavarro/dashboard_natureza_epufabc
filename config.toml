@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+
+primaryColor = '#ed3d00' # Um verde EPUFABC
+backgroundColor = "#0E1117" # Fundo quase preto (padrão Streamlit ou Github Dark)
+secondaryBackgroundColor = "#262730" # Fundo da sidebar
+textColor = "#FAFAFA"
+font = "sans serif"
+
+[client]
+showSidebarNavigation = false
