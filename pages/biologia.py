@@ -4,7 +4,6 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 import altair as alt
-from streamlit_plotly_events import plotly_events
 
 import sys
 import os
@@ -32,3 +31,4 @@ st.title("🧬 Biologia ENEM")
 
 #alt.theme.enable("dark")
 alt.theme.enable("ggplot2")# estilo ggplot2
+
